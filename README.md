@@ -2,7 +2,7 @@
 
 Explore how to extract useful information from poorly extracted potentiometric titration data
 
-## Problem Domainof 
+## Problem Domain
 
 In the ideal world, data collected from an experiment should fit to a smooth curve with minimally possible ambiguity. In chemistry, many standard procedures typically resolve to a curve to fits to a standard shape. However in reality, that's not always the case. This project explores the possiblity of using polynomials to approximate an analytical solution to a poorly collected dataset, which can be achieved by dividing the curve into smaller sections. 
 
